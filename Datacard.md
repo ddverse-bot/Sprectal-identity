@@ -8,7 +8,7 @@ This suite contains a progression of datasets used to validate the Harmonic Iden
 |--------|--------|----------|--------|
 | Synthetic | Procedural Grid | Mathematical | Proof of High-Frequency (HF) Preservation |
 | Texture Benchmark | Barbara / Ascent | Digital Image | Stress-test for harmonic texture retention |
-| Ophthalmology | CHASE_DB1 / DRIVE | Fundus Photography | Real-world macro-vascular segmentation |
+| Ophthalmology |  DRIVE | Fundus Photography | Real-world macro-vascular segmentation |
 | Cytology | Cells3D (skimage) | Fluorescence | Real-world micro-membrane extraction |
 
 ---
